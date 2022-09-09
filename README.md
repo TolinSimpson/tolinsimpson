@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolinsimpson&layout=compact" width="332px" />
 </a>
 <br>
-<b>My Teck Stack:</b>
+<b>My Tech Stack:</b>
 <br>
 <a href="https://unity.com/">
   <img align="center" src="https://user-images.githubusercontent.com/20493432/189245631-8783cf07-dc01-47a6-9b40-7a4da8f0963b.png" width="32px" />
