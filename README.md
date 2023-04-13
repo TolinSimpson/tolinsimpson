@@ -1,4 +1,4 @@
-#### Tolin Simpson specializes in creating developer tools & plugins for desktop applications & Unity.
+#### Tolin Simpson specializes in creating tools & plugins for real-time 3D in Unity.
 
 
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-#### I’m the founder of Kitbashery, creating and maintaining a collection of Open-Source assets for Unity as a freemium service.
+#### I’m the founder of Kitbashery, creating and maintaining a collection of Open-Source & paid middleware for Unity.
 
 [![Kitbashery](https://img.shields.io/badge/GitHub-Kitbashery-%23ffaf0c)](https://github.com/Kitbashery) 
 [![Sponsor Me](https://img.shields.io/badge/GitHub-Sponsor%20Me-%23ff5f5f)](https://github.com/sponsors/Kitbashery)
