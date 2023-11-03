@@ -30,8 +30,10 @@
 <br>
 <br>
 
+<!--
 #### I’m the founder of Kitbashery, creating and maintaining a collection of Open-Source & paid middleware for Unity.
 
 [![Kitbashery](https://img.shields.io/badge/GitHub-Kitbashery-%23ffaf0c)](https://github.com/Kitbashery) 
 [![Sponsor Me](https://img.shields.io/badge/GitHub-Sponsor%20Me-%23ff5f5f)](https://github.com/sponsors/Kitbashery)
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-green)](https://tolinsimpson.github.io/)
+-->
