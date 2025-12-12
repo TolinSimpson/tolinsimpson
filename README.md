@@ -1,5 +1,4 @@
-#### Tolin Simpson specializes in creating tools & plugins for real-time 3D in Unity.
-
+#### Tolin Simpson specializes in creating developer tools for 3D applications.
 
 
 
