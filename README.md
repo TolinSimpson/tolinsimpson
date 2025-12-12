@@ -11,6 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolinsimpson&layout=compact" width="332px" />
 </a>
 <br>
+<!--
 <b>My Tech Stack:</b>
 <a href="https://unity.com/">
   <img align="center" src="https://user-images.githubusercontent.com/20493432/189245631-8783cf07-dc01-47a6-9b40-7a4da8f0963b.png" width="32px" />
@@ -28,12 +29,4 @@
   <img align="center" src="https://user-images.githubusercontent.com/20493432/189245473-d8ba58a7-29c7-4b2b-badb-fdc1b8c9a135.png" width="32px" />
 </a>
 <br>
-<br>
-
-<!--
-#### I’m the founder of Kitbashery, creating and maintaining a collection of Open-Source & paid middleware for Unity.
-
-[![Kitbashery](https://img.shields.io/badge/GitHub-Kitbashery-%23ffaf0c)](https://github.com/Kitbashery) 
-[![Sponsor Me](https://img.shields.io/badge/GitHub-Sponsor%20Me-%23ff5f5f)](https://github.com/sponsors/Kitbashery)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-green)](https://tolinsimpson.github.io/)
--->
+<br> -->
