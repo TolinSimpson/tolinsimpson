@@ -9,13 +9,8 @@
 <br>
 
 ---
-### Tiny Web Ecosystem
----
-#### [Minibun](https://github.com/TolinSimpson/Minibun) - A tiny javascript bundler implementation.
-#### [Minirend](https://github.com/TolinSimpson/minirend) - A tiny cross-platform javascript runtime & web renderer
-#### [minima-js](https://github.com/TolinSimpson/minima-js) - A tiny, fully-featured, zero-dependency JavaScript framework. 
----
 ### Video Game Engines
 #### [Three64](https://github.com/TolinSimpson/Three64) - A tiny three.js game engine with blender authoring tools
 #### [Kitbashery Unity Asset Repositories](https://github.com/Kitbashery) - Unity game-engine extensions & libraries
+#### [Minimum Viable Web Repositories](https://github.com/Minimum-Viable-Web) - A tiny web development ecosystem in pure C, Javascript
 ---
