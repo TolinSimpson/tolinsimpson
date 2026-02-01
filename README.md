@@ -1,4 +1,4 @@
-## Tolin Simpson specializes in creating developer tools for 3D applications.
+## Tolin Simpson is a DevEx, AI & 3D specialist.
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tolinsimpson&count_private=true&show_icons=true" width="470px" />
